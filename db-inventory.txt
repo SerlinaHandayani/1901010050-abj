@@ -1,0 +1,4 @@
+Nama Perangkat : Cisco Router, 	 Lokasi : Aula 3
+Nama Perangkat : Router ZTE, 	 Lokasi : Aula 2
+Nama Perangkat : Cisco Router, 	 Lokasi : Aula 2
+Nama Perangkat : Router ZTE, 	 Lokasi : Aula 3
